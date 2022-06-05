@@ -1,7 +1,7 @@
-package main
+gitpackage main
 
 import "fmt"
 
-func main () {
-    fmt.Printf("%d is a number",10)
+func main() {
+	fmt.Printf("%d is a number", 10)
 }
