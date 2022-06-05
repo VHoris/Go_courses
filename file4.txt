@@ -4,3 +4,5 @@ Java
 JavaScript
 C
 C++
+Dart
+Scala
