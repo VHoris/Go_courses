@@ -1,5 +1,6 @@
 Python
-Go
+Golang
 Java
 JavaScript
 C
+C++
